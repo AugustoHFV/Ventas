@@ -1,0 +1,30 @@
+body{
+    font-family: "calibri" ;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color: rgb(21, 32, 32);
+    text-align: center;
+}
+
+header{
+    background-color: rgba(2,118,172,255) ;
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    line-height: 100px;
+}
+
+
+#micontenido{
+    float: left;
+    width: 275px;
+    min-height: 275px;
+    background: blue;
+}
+
+aside{
+    float: right;
+    width: 100%;
+    background: rgba(141,195,77,255);
+    min-height: 50%;
+}
